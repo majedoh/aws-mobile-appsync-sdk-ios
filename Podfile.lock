@@ -23,7 +23,7 @@ PODS:
   - SwiftLint (0.47.1)
 
 DEPENDENCIES:
-  - AppSyncRealTimeClient (from `https://github.com/oahhariri/aws-appsync-realtime-client-ios.git`)
+  - AppSyncRealTimeClient (from `https://github.com/oahhariri/aws-appsync-realtime-client-ios.git`, branch `main`)
   - AWSCore (~> 2.27.0)
   - AWSMobileClient (~> 2.27.0)
   - AWSS3 (~> 2.27.0)
@@ -44,6 +44,7 @@ SPEC REPOS:
 
 EXTERNAL SOURCES:
   AppSyncRealTimeClient:
+    :branch: main
     :git: https://github.com/oahhariri/aws-appsync-realtime-client-ios.git
 
 CHECKOUT OPTIONS:
@@ -63,6 +64,6 @@ SPEC CHECKSUMS:
   Starscream: 5178aed56b316f13fa3bc55694e583d35dd414d9
   SwiftLint: f80f1be7fa96d30e0aa68e58d45d4ea1ccaac519
 
-PODFILE CHECKSUM: fa0e330e3355394ae4354a59eedcb7339a1be459
+PODFILE CHECKSUM: 78ebb731a50f24e620fe92f3943a916774ad0cfa
 
 COCOAPODS: 1.11.3
