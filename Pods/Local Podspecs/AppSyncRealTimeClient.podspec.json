@@ -12,7 +12,7 @@
     "ios": "9.0"
   },
   "source": {
-    "git": "https://github.com/aws-amplify/aws-appsync-realtime-client-ios.git",
+    "git": "https://github.com/oahhariri/aws-appsync-realtime-client-ios.git",
     "tag": "2.0.1"
   },
   "swift_versions": "5.1",

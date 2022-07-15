@@ -48,11 +48,11 @@ EXTERNAL SOURCES:
 
 CHECKOUT OPTIONS:
   AppSyncRealTimeClient:
-    :commit: efea28d8ff20947b1dfd8180719e3efc202a890c
+    :commit: 8f7bf393402be1bd6db0023dd7e12b9b242905ef
     :git: https://github.com/oahhariri/aws-appsync-realtime-client-ios.git
 
 SPEC CHECKSUMS:
-  AppSyncRealTimeClient: dcd1b88c74bfa373b148da2fb9a62efeb73b90a6
+  AppSyncRealTimeClient: 4d7b7223b12719668858b6e10c635d6800e5ffd6
   AWSAuthCore: d26bd130b49dc27373aa32c84c9de8f16c2f13e0
   AWSCognitoIdentityProvider: 069cce018cd50df8139ea2ee9bf17f2aa84953fb
   AWSCognitoIdentityProviderASF: 7f0612bfc44205e4371f89794ffb7a550319f57e

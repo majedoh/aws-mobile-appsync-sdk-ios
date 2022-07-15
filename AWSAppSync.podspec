@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage     = 'http://aws.amazon.com/mobile/sdk'
   s.license      = { :type => 'Amazon Software License', :file => 'LICENSE' }
   s.summary      = "iOS client to access AWSAppSync backend."
-  s.source       = { :git => 'https://github.com/awslabs/aws-mobile-appsync-sdk-ios.git',
+  s.source       = { :git => 'https://github.com/oahhariri/aws-mobile-appsync-sdk-ios.git',
                      :tag => s.version }
   s.requires_arc = true
   s.ios.deployment_target = '9.0'
