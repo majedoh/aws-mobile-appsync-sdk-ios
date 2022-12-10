@@ -14,7 +14,7 @@ let package = Package(
         .package(
             name: "AWSiOSSDKV2",
             url: "https://github.com/aws-amplify/aws-sdk-ios-spm.git",
-            .branch("main")
+            .upToNextMajor(from: "2.27.0")
         ),
         .package(
             name: "AppSyncRealTimeClient",
