@@ -18,7 +18,7 @@ let package = Package(
         ),
         .package(
             name: "AppSyncRealTimeClient",
-            url: "https://github.com/oahhariri/aws-appsync-realtime-client-ios.git",
+            url: "https://github.com/majedoh/aws-appsync-realtime-client-ios.git",
             .branch("master")
         ),
         .package(
