@@ -14,21 +14,21 @@ let package = Package(
         .package(
             name: "AWSiOSSDKV2",
             url: "https://github.com/aws-amplify/aws-sdk-ios-spm.git",
-            .upToNextMajor(from: "2.27.0")
+            .branch("master")
         ),
         .package(
             name: "AppSyncRealTimeClient",
             url: "https://github.com/oahhariri/aws-appsync-realtime-client-ios.git",
-            .upToNextMajor(from: "1.8.0")
+            .branch("master")
         ),
         .package(
             url: "https://github.com/stephencelis/SQLite.swift.git",
-            .upToNextMajor(from: "0.12.0")
+            .branch("master")
         ),
         .package(
             name: "Reachability",
             url: "https://github.com/ashleymills/Reachability.swift.git",
-            .upToNextMajor(from: "5.0.0")
+            .branch("master")
         )
     ],
     targets: [
